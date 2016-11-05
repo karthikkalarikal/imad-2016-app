@@ -24,3 +24,8 @@ a   {
     text-decoration: none;
     
 }
+.class{
+    font-family: sans-serif;
+    background-color: red;
+    color: white;
+}
